@@ -35,7 +35,7 @@ Estou cursando PROGRAMADOR WEB - CAMPUS ARAGUAÍNA & PROGRAMADOR DE DISPOSITIVOS
 >
 >Status do Projeto: Em desenvolvimento :warning:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramonoliveiranascimento&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramonoliveiranascimento&show_icons=true&theme=dark)(https://github.com/ramonoliveiranascimento/github-readme-stats)
 
 
 
