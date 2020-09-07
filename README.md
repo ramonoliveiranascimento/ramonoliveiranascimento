@@ -39,14 +39,14 @@ Estou cursando PROGRAMADOR WEB - CAMPUS ARAGUAÍNA & PROGRAMADOR DE DISPOSITIVOS
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ramonoliveiranascimento&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/ramonoliveiranascimento/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveiranascimento&show_icons=true&theme=dark)](https://github.com/ramonoliveiranascimento/github-readme-stats)
 
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&show_icons=true&theme=dark" />
+<a href="https://github.com/ramonoliveiranascimento/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ramonoliveiranascimento&repo=convoychat&show_icons=true&theme=dark" />
 </a>
