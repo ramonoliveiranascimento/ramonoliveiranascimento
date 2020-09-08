@@ -36,8 +36,8 @@ Estou cursando PROGRAMADOR WEB - CAMPUS ARAGUAÍNA & PROGRAMADOR DE DISPOSITIVOS
 >Status do Projeto: Em desenvolvimento :warning:
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramonoliveiranascimento&show_icons=true&theme=dark)](https://github.com/ramonoliveiranascimento/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramonoliveiranascimento?tab=repositories&show_icons=true&theme=dark)](https://github.com/ramonoliveiranascimento)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveiranascimento&show_icons=true&theme=dark)](https://github.com/ramonoliveiranascimento/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonoliveiranascimento?tab=repositories&show_icons=true&theme=dark)](https://github.com/ramonoliveiranascimento)
 
