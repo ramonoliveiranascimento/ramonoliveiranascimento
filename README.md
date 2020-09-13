@@ -29,7 +29,7 @@ Estou cursando PROGRAMADOR WEB - CAMPUS ARAGUAÍNA & PROGRAMADOR DE DISPOSITIVOS
 >
 >NO CODE:
 >
->[![glideapp Badge](https://img.shields.io/badge/-Aplicativos_Mobile-000?style=flat&color=grey&logo=glide-apps&logoColor=white&label=GlideApps&labelColor=black)](https://www.glideapps.com)
+>[![glideapp Badge](https://img.shields.io/badge/-Aplicativos_Mobile-000?style=flat&color=grey&logo=glide-apps&logoColor=white&label=GlideApps&labelColor=black)](https://app-ougas.glideapp.io/)
 >
 >[![github ramonoliveiranascimento Badge](https://img.shields.io/badge/-Ramon_Oliveira_Nascimento-000?style=flat&color=grey&logo=Github&logoColor=white&label=Github&labelColor=black)](https://github.com/ramonoliveiranascimento)
 >
